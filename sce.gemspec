@@ -1,9 +1,9 @@
 # frozen_string_literal: true
 
-require_relative 'lib/sound_count_engine/version'
+require_relative 'lib/Sound_Count_Engine/version'
 
 Gem::Specifycation.new do |spec|
-	spec.name          = 'sound_count_engine'
+	spec.name          = 'Sound_Count_Engine'
 	spec.version       = Sound_Count_Engine::VERSION
 	spec.authors       = ['urabexon']
 	spec.email         = ['hiroki708.a48uk@gmail.com']
